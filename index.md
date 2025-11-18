@@ -27,7 +27,9 @@
 
 **⚠️ 注意：本书为英文原版，仅提供印刷版，暂无 PDF 或中文电子版。**
 
-[![点击购买 ComfyUI 手册](assets/comfyui-handbook-workflows-cn.jpg)](https://a.co/d/eockxat)
+[![点击购买 ComfyUI 手册](assets/Comfy_Workflows.jpg)](https://a.co/d/eockxat)
+[![点击购买 ComfyUI 手册](assets/Comfy_Worfklows.jpg)](https://a.co/d/eockxat)
+
 
 **前往 Amazon 购买：**  
 👉 [https://a.co/d/eockxat](https://a.co/d/eockxat)
@@ -37,6 +39,21 @@
 ## 示例工作流截图 | Example Workflows
 
 [![ComfyUI Workflow Example](https://github.com/user-attachments/assets/9ca1917e-c170-48c0-b6c9-8a4104e3e88e)](https://a.co/d/eockxat)
+
+
+## 获取《ComfyUI 手册》
+
+[![点击购买 ComfyUI 手册](assets/comfyui-handbook-workflows-cn.jpg)](https://a.co/d/eockxat)
+
+> 不再在论坛中苦苦寻找答案。用一本结构清晰的《ComfyUI 手册》，系统掌握图像生成的工作流设计。
+
+---
+
+## 示例工作流截图
+
+![ComfyUI 工作流演示图](assets/Comfy_Workflows.jpg)
+
+上图展示了书中讲解的部分实际工作流，包括 ControlNet、Inpainting、终端操作与节点组合的可视化流程。
 
 ---
 
