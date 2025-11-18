@@ -1,11 +1,11 @@
 # 《ComfyUI 手册》ComfyUI Handbook（英文原版）
 
 首本专为 ComfyUI 用户编写的印刷指南，超过 300 页内容，系统讲解工作流设计、节点操作、模型调用与自动化实战。  
-涵盖最新工具、支持 SDXL、LoRA、ControlNet 等核心功能，适合艺术家、设计师、创作者及技术爱好者参考学习。
+涵盖最新工具，支持 SDXL、LoRA、ControlNet、IPAdapter 等核心功能，适合艺术家、设计师、创作者及技术爱好者学习使用。
 
-![ComfyUI Handbook Cover](assets/comfyui-handbook-workflows-cn.jpg)
+![ComfyUI Handbook Cover](https://raw.githubusercontent.com/rafael3/comfyui-workflows-cn/main/assets/comfyui-handbook-workflows-cn.jpg)
 
-> 不再在论坛和群里苦苦寻找答案。用《ComfyUI 手册》，系统掌握 AI 图像生成流程。
+> 不再在论坛中苦苦寻找答案。用一本结构清晰的《ComfyUI 手册》，系统掌握图像生成的工作流设计。
 
 ---
 
@@ -16,80 +16,69 @@
 
 📖 **内容包括：**
 
-- 326 条专业技巧与最佳实践
-- 控制Net、LoRA、IPAdapter、Inpainting 等节点全解析
-- 商业级工作流设计方法
-- 终端自动化与扩展脚本实例
+- 326 条专业技巧与实战经验
+- ControlNet、LoRA、IPAdapter、Inpainting 等节点功能详解
+- 商业级图像工作流设计方法
+- 终端自动化、批量渲染与 JSON 脚本工作流
 
 ---
 
 ## 获取图书 | Get the Book
 
-**⚠️ 注意：本书为英文原版，仅提供印刷版，暂无 PDF 或中文电子版。**
+**⚠️ 注意：本书为英文原版，仅提供纸质印刷版，暂无 PDF 或中文电子版。**
 
-[![点击购买 ComfyUI 手册](https://raw.githubusercontent.com/rafael3/comfyui-workflows-cn/main/assets/[Comfy-Workflows.jpg](https://github.com/rafael3/comfyui-workflows-cn/blob/main/assets/ComfyUI-Worfklows.jpg))](https://a.co/d/eockxat)
+[![点击购买 ComfyUI 手册](https://raw.githubusercontent.com/rafael3/comfyui-workflows-cn/main/assets/ComfyUI-Worfklows.jpg)](https://a.co/d/eockxat)
 
-
-**前往 Amazon 购买：**  
-👉 [https://a.co/d/eockxat](https://a.co/d/eockxat)
+👉 [点击前往 Amazon 购买](https://a.co/d/eockxat)
 
 ---
 
-## 示例工作流截图 | Example Workflows
+## 示例工作流 | Example Workflows
 
-[![ComfyUI Workflow Example](https://github.com/user-attachments/assets/9ca1917e-c170-48c0-b6c9-8a4104e3e88e)](https://a.co/d/eockxat)
+![ComfyUI 工作流演示图](https://raw.githubusercontent.com/rafael3/comfyui-workflows-cn/main/assets/Comfy_Workflows.jpg)
 
-
-## 获取《ComfyUI 手册》
-
-[![点击购买 ComfyUI 手册](assets/comfyui-handbook-workflows-cn.jpg)](https://a.co/d/eockxat)
-
-> 不再在论坛中苦苦寻找答案。用一本结构清晰的《ComfyUI 手册》，系统掌握图像生成的工作流设计。
-
----
-
-## 示例工作流截图
-
-![ComfyUI 工作流演示图](assets/Comfy_Workflows.jpg)
-
-上图展示了书中讲解的部分实际工作流，包括 ControlNet、Inpainting、终端操作与节点组合的可视化流程。
+上图展示了书中讲解的部分实际工作流，包括 ControlNet、LoRA、Inpainting、终端操作与节点组合的可视化流程。
 
 ---
 
 ## 谁适合阅读？| Who Is This Book For?
 
-- 初学者，希望快速入门 ComfyUI 的图像生成功能
-- 设计师和插画师，探索 LoRA 风格迁移与提示词控制
-- 技术创作者，整合终端自动化与 JSON 工作流配置
-- AI 内容创作者，提升流程效率与输出质量
+- 初学者：希望快速入门 ComfyUI 图像生成功能  
+- 设计师与插画师：探索风格迁移、提示词控制  
+- 技术创作者：使用终端自动化、批量渲染与脚本优化流程  
+- AI 内容生产者：建立高效、可复用的创作流程
 
 ---
 
 ## 图书信息 | Book Details
 
 - 作者：Rafael Hernández González  
-- ISBN: 978-84-09-77927-7  
+- ISBN：978-84-09-77927-7  
 - 页数：300+ 页  
 - 出版时间：2025 年 10 月  
+- 本页面内容已更新至 2025 年 11 月版本
+
 - 语言：英文  
-- 格式：纸质印刷版（无电子版）  
-- 购买链接：[https://a.co/d/eockxat](https://a.co/d/eockxat)
+- 格式：纸质印刷（无电子版）  
+- Amazon 购买链接：[https://a.co/d/eockxat](https://a.co/d/eockxat)
 
 ---
 
 ## 联系作者 | Contact
 
-如需合作、咨询或投稿使用反馈，欢迎联系作者：
+如需合作、咨询或使用反馈，欢迎联系作者：
 
-- 📧 邮箱：hernandezrafael@hotmail.com  
-- 📘 LinkedIn：[https://www.linkedin.com/in/rhernandez2](https://www.linkedin.com/in/rhernandez2)  
-- 📱 微信：_30144231415926  
-- 📦 GitHub: [https://github.com/rafaelgzz/comfyui-handbook-cn](https://github.com/rafaelgzz/comfyui-handbook-cn)
+ 
+-  LinkedIn：[https://www.linkedin.com/in/rhernandez2](https://www.linkedin.com/in/rhernandez2)  
+-  微信：_30144231415926  
+- –––– GitHub 主仓库：[https://github.com/rafaelgzz/comfyui-handbook-cn](https://github.com/rafaelgzz/comfyui-handbook-cn)
 
 ---
 
 ## 开源资源 | Included Workflows
 
-你也可以浏览本仓库的 `/workflows/` 文件夹，下载书中精选 `.json` 工作流文件。
+你可以浏览本仓库中的 `/workflows/` 文件夹，下载书中配套的 `.json` 工作流文件。  
+我们会持续更新与书中章节匹配的工作流，支持 SDXL、LoRA、FaceFix、批量渲染等功能。
 
 ---
+https://www.amazon.com/ComfyUI-Handbook-AI-Workflow-Design/dp/8409779277/ref=sr_1_1?crid=272LCZN9YPPLL&dib=eyJ2IjoiMSJ9.k9ZroAu5CL21JDZx-XNPwwZQXOEP60PXVfmFZNTuVU0.0cBshlkNBh-cpOKfrHK_fsrvx5SSHOU2VByadWZvZHM&dib_tag=se&keywords=comfyui+handbook&qid=1763449374&sprefix=comfyui+handbook%2Caps%2C267&sr=8-1–
