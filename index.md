@@ -28,8 +28,6 @@
 **⚠️ 注意：本书为英文原版，仅提供印刷版，暂无 PDF 或中文电子版。**
 
 [![点击购买 ComfyUI 手册](assets/Comfy_Workflows.jpg)](https://a.co/d/eockxat)
-[![点击购买 ComfyUI 手册](assets/Comfy_Worfklows.jpg)](https://a.co/d/eockxat)
-
 
 **前往 Amazon 购买：**  
 👉 [https://a.co/d/eockxat](https://a.co/d/eockxat)
